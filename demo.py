@@ -1,1 +1,4 @@
-pritn("hello")
+print("hello")
+
+print('venky')
+print('ajau')
